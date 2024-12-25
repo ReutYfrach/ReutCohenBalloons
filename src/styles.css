@@ -1,0 +1,10 @@
+header {
+    background-color: #f8f9fa;
+  }
+  #hero {
+    background-image: url('assets/hero.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
+  
